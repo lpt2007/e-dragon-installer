@@ -52,3 +52,4 @@ sudo ./install-wizard.sh --step 1 --dry-run
 - Razvoj poteka v veji `dev`.
 - Skripta ne zahteva GitHub ključa za delovanje — deluje samostojno na ciljnem Proxmox gostitelju.
 # test zascite 1790052486
+# test zascite 1790052707
