@@ -51,3 +51,4 @@ sudo ./install-wizard.sh --step 1 --dry-run
 - Repo `main` je zaščiten — neposredni push v `main` ni mogoč.
 - Razvoj poteka v veji `dev`.
 - Skripta ne zahteva GitHub ključa za delovanje — deluje samostojno na ciljnem Proxmox gostitelju.
+# test zascite 1790052486
